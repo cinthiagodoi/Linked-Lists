@@ -1,4 +1,4 @@
-# Linked-Lists
+# Linked_Lists
 
 A linked list is a linear data structure where each element is a separate object. Linked list elements are not stored at contiguous location; the elements are linked using pointers.
 
