@@ -13,10 +13,10 @@ Before you begin, you will need to have the following tools installed on your ma
 
 ```
 # Clone this repository
-$ git clone git@github.com:cinthiagodoi/Linked-Lists.git
+$ git clone git@github.com:cinthiagodoi/Linked_Lists.git
 
 # Access the project folder in the / cmd terminal
-$ cd Binary_Search_Tree
+$ cd Linked_List
 
 # Run on your terminal
 $ ruby 'linked_list.rb ' 
